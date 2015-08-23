@@ -1,2 +1,2 @@
-# jQuery-Animation
+# jQuery
 Tab Menu
